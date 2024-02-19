@@ -12,38 +12,56 @@ Eu sou formando em Análise e Desenvolvimento de Sistemas e atualmente estou est
   
   ##
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
-  ##
-
 🚀 Tecnologias que eu tenho conhecimento
 
-Front-end
-- ReactJS
-- NextJS
-- React Native
-- JavaScript
-- TypeScript
-- Material UI
-- Bootstrap
-- Styled-components
-- TailwindCss
-- Redux
-- HTML
-- CSS
+<div style="display: flex; justify-content: space-between">
+  <div>
+    <p>Front-end</p>
+    <div>
+      <li>ReactJS</li> 
+      <li>NextJS</li>
+      <li>React Native</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>Material UI</li>
+      <li>Bootstrap</li>
+      <li>Styled-components</li>
+      <li>TailwindCss</li>
+      <li>Redux</li>
+      <li>HTML</li>
+      <li>CSS</li>
+    </div>
+  </div>
 
-Back-end
-- SpringBoot
-- NodeJS
-- Micro-Serviços
-- Serverless
-- Docker
-- SQL
-- Testes automatizados de integração e unitários
+  <br />
 
-Outros
-- Git e Github
+  <div>
+    <p>Back-end</p>
+    <div>
+      <li>SpringBoot</li>
+      <li>NodeJS</li>
+      <li>Micro-Serviços</li>
+      <li>Serverless</li>
+      <li>Docker</li>
+      <li>SQL</li>
+      <li>Testes automatizados de integração e unitários</li>
+    </div>
+  </div>
 
+  <br />
+
+  <div>
+    <p>Outros</p>
+    <div>
+      <li>Git e Github</li>
+    </div>
+  </div>
+  
+</div>
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabriel021&layout=compact)
   ##
  
 <div> 
