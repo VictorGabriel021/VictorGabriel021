@@ -7,11 +7,17 @@ Eu sou formando em Análise e Desenvolvimento de Sistemas e atualmente estou est
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
   
   ##
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+  ##
+
 🚀 Tecnologias que eu tenho conhecimento
+
 Front-end
 - ReactJS
 - NextJS
@@ -32,6 +38,7 @@ Back-end
 - Micro-Serviços
 - Serverless
 - Docker
+- SQL
 - Testes automatizados de integração e unitários
 
 Outros
